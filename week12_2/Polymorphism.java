@@ -1,5 +1,4 @@
 package week12_2;
-//Nergiz is the best <3 <3 <3
 public class Polymorphism {
 }
 
@@ -39,4 +38,3 @@ class Main{
 }
 
 
-//<333333333BİLGEYİ ÇOK SEVİYORUM AŞKIM BALIM BİTANEM<333333333
